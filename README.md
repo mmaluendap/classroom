@@ -17,6 +17,7 @@ determina los criterios de aprobación.
 ### Escala de evaluación
 
 | Evaluación 	| Nota 	|	Puntaje 							|
+|:-:			|:-:	|---	|
 | Distinguidos 	| 7.0	| Ptje. total suma a Pts. Distinguidos 	|
 | Aprobados 	| 5.5	| Ptje. total suma a Pts. Aprobados 	|
 | Suficiente (1)| 4.0	| Ptje. total se distribuye en Aprobados y Reprobados 		|
