@@ -6,7 +6,7 @@ En esta carpeta encontrarás material de apoyo útil para el curso.
 
 Los recursos asociados a los microcontroladores utilizados en este curso los pueden encontrar en sus respectivas páginas
 
-**MSP430F5529 Launchpad** 
+### MSP430F5529 Launchpad
 
 Las encontrarán en la carpeta MSP430 y en los siguientes links:
 
@@ -20,7 +20,8 @@ Para programarla pueden utilizar Code Composer Studio o Energia.nu
 	- Download page: http://processors.wiki.ti.com/index.php/Download_CCS
 - Energia.nu: http://energia.nu/
 
-** ATmega328P Xplained Mini **
+### ATmega328P Xplained Mini 
+
 Las encontrarán en la carpeta [ATMEL](s) y en los siguientes links. En la carpeta además hay un archivo llamado optiboot_xplained328p.hex, este es el [bootloader](https://www.engineersgarage.com/tutorials/bootloader-how-to-program-use-bootloader) que utiliza el microcontrolador para funcionar, en caso de alguna falla, volver a cargar este archivo podría ser un paso útil. 
 
 - Link del fabricante: https://www.microchip.com/developmenttools/ProductDetails/ATMEGA328P-XMINI
