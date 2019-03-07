@@ -36,7 +36,6 @@ Ejemplo:
 
 **Caso  1**
 
-Si pts. Reprobados $<= 40$ pts, para aprobar debe cumplir que 
-$$ \mbox{pts. Distinguidos } >= \mbox{pts. Reprobados} $$
+Si pts. Reprobados ≤ 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ pts. Reprobados.
 
 
