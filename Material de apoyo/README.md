@@ -1,6 +1,6 @@
-# IEE2463 - Sistemas Electrónicos Programables
+# IEE2463 - Material de apoyo
 
-En esta carpeta encontrarás material de apoyo útil para el curso.
+En esta carpeta encontrarás material de apoyo útil para el curso. El archivo github-git-cheat-sheet.pdf contiene una lista de comandos útiles de Git.
 
 ## Microcontroladores
 
