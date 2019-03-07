@@ -34,8 +34,7 @@ Ejemplo:
 
 ### Criterio de Aprobación
 
-**Caso  1**
+- **Caso  1**: Si pts. Reprobados ≤ 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ pts. Reprobados.
 
-Si pts. Reprobados ≤ 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ pts. Reprobados.
-
+- **Caso  2**: Si pts. Reprobados > 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ 20 + pts. Reprobados.
 
