@@ -7,7 +7,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que podrían estar en las Issues, pero que fueron enviadas por correo, **NO** serán respondidas. Aquellos casos particulares que requieran reemplazo de algún material o justificar algún problema personal deben escribir un correo con copia a los siguientes 3 ayudantes.
 
 - Felipe Sánchez (fssanchez@uc.cl)
-- María Ignacia Valdés (mivaldes1@uc.com)
+- María Ignacia Valdés (mivaldes1@uc.cl)
 - Alejandro Kaminetzky (ajkaminetzky@uc.cl)
 
 ## Sistema de Calificación de Laboratorios
@@ -30,7 +30,7 @@ determina los criterios de aprobación.
 |:-:			|:-:	|---	|
 | Distinguidos 	| 7.0	| Ptje. total suma a Pts. Distinguidos 	|
 | Aprobados 	| 5.5	| Ptje. total suma a Pts. Aprobados 	|
-| Suficiente (1)| 4.0	| Ptje. total se distribuye en Aprobados y Reprobados 		|
+| Suficiente _(1)_| 4.0	| Ptje. total se distribuye en Aprobados y Reprobados 		|
 | Reprobado 	| 1.0	| Total suma a Pts. Reprobados 		|
 
 _(1) solo algunas experiencias tendrán como opción esta nota. Se
