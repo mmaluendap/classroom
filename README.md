@@ -38,5 +38,5 @@ Ejemplo:
 
 - **Caso  2**: Si pts. Reprobados > 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ 20 + pts. Reprobados.
 
-Esto lo encontrará en la explicación en el siguiente documento [Sistema Calificación SEP](../Administración/).
+Esto lo encontrará en la explicación en el siguiente documento [Sistema Calificación SEP](/Administración/).
 
