@@ -9,10 +9,12 @@ realizar. Cada nivel tendrá asociado una **ponderación** en el cálculo de la 
 (Rerpobados, Aprobados o Distinguidos), según el sistema de puntuación que
 determina los criterios de aprobación.
 
+<center>
 | Nivel			| 1  	|  2 	|  3 	|  4 	| 5  	|
 |:-:			|:-:	|---	|---	|---	|---	|
 | Ponderación 	| 3 %	| 5.5 % | 8.5 %	| 10.5 %| 13 %  |
 | Puntaje		| 10  	| 20  	| 30 	| 40  	| 50  	|
+</center>
 
 ### Escala de evaluación
 
