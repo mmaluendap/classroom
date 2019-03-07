@@ -5,7 +5,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ## Sistema de Calificación de Laboratorios
 
 Las experiencias estarán divididas en niveles, acorde a la dificultad de las tareas a
-realizar. Cada nivel tendrá asociado una **ponderación** en el cálculo de la nota final y un puntaje equivalente, que se sumará al grupo de puntos que corresponda
+realizar. Cada nivel tendrá asociado una **ponderación** en el cálculo de la nota final y un **puntaje equivalente**, que se sumará al grupo de puntos que corresponda
 (Rerpobados, Aprobados o Distinguidos), según el sistema de puntuación que
 determina los criterios de aprobación.
 
@@ -29,12 +29,14 @@ _(1) solo algunas experiencias tendrán como opción esta nota. Se
 notificará en la pauta de cada laboratorio._
 
 Ejemplo:
-- Si obtengo un APROBADO en un laboratorio de nivel 1, se le suma 10 a mis puntos de Aprobados.
-- Si obtengo un SUFICIENTE en un laboratorio de nivel 4, se le suma 20 a mis puntos de Aprobados y 20 a mis puntos de Reprobados. 
+- Si obtengo un **APROBADO** en un laboratorio de nivel 1, se le suma 10 a mis puntos de Aprobados.
+- Si obtengo un **SUFICIENTE** en un laboratorio de nivel 4, se le suma 20 a mis puntos de Aprobados y 20 a mis puntos de Reprobados. 
 
 ### Criterio de Aprobación
 
 - **Caso  1**: Si pts. Reprobados ≤ 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ pts. Reprobados.
 
 - **Caso  2**: Si pts. Reprobados > 40 pts, para aprobar debe cumplir que pts. Distinguidos ≥ 20 + pts. Reprobados.
+
+Esto lo encontrará en la explicación en el siguiente documento [Sistema Calificación SEP]](Administración/).
 
