@@ -1,6 +1,14 @@
 # IEE2463 - Sistemas Electrónicos Programables
 
-En este repositorio encontrarás recursos importantes sobre Sistemas Electrónicos Programables como laboratorios y pautas. También puedes realizar preguntas en las [issues](../../issues).
+En este repositorio encontrarás recursos importantes sobre Sistemas Electrónicos Programables como laboratorios y pautas. 
+
+## Foro
+
+Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que podrían estar en las Issues, pero que fueron enviadas por correo, **NO** serán respondidas. Aquellos casos particulares que requieran reemplazo de algún material o justificar algún problema personal deben escribir un correo con copia a los siguientes 3 ayudantes.
+
+- Felipe Sánchez (fssanchez@uc.cl)
+- María Ignacia Valdés (mivaldes1@uc.com)
+- Alejandro Kaminetzky (ajkaminetzky@uc.cl)
 
 ## Sistema de Calificación de Laboratorios
 
