@@ -5,9 +5,9 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 [Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
 
 ## Laboratorios
-| Laboratorio |                      Enlace                     |
-|:-----------:|:-----------------------------------------------:|
-|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) |
+| Laboratorio |                         Enlace                        |    Fecha    |
+|:-----------:|:-----------------------------------------------------:|:-----------:|
+|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | 11 de Marzo |
 
 ## Foro
 
