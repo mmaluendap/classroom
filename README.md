@@ -2,7 +2,7 @@
 
 En este repositorio encontrarás recursos importantes sobre Sistemas Electrónicos Programables como laboratorios y pautas. 
 
-[Introducción a GitHub](/Material%20de%20apoyo/Introducción%20a%20GitHub.pdf) 
+[Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
 
 ## Foro
 
