@@ -2,6 +2,8 @@
 
 En este repositorio encontrarás recursos importantes sobre Sistemas Electrónicos Programables como laboratorios y pautas. 
 
+[Introducción a GitHub](/Material%20de%20apoyo/Introducción%20a%20GitHub.pdf) 
+
 ## Foro
 
 Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que podrían estar en las issues, pero que fueron enviadas por correo, **NO** serán respondidas. Aquellos casos particulares que requieran reemplazo de algún material o justificar algún problema personal deben escribir un correo con copia a los siguientes 3 ayudantes.
