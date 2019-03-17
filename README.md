@@ -8,6 +8,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 | Laboratorio |                         Enlace                        |    Fecha    |
 |:-----------:|:-----------------------------------------------------:|:-----------:|
 |      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | 11 de Marzo |
+|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | 25 de Marzo |
 
 ## Foro
 
