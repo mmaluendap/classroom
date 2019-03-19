@@ -4,11 +4,11 @@
 
 int main(void)
 {
-	// Setea los pines del puerto B a SALIDA
+	// Define los pines del puerto B a SALIDA
 	DDRB |= 0x3F;
-	// Setea los pines del puerto C a SALIDA
+	// Define los pines del puerto C a SALIDA
 	DDRC |= 0x3F;
-	// Setea los pines del puerto D a SALIDA
+	// Define los pines del puerto D a SALIDA
 	DDRD |= 0xFF;
 
 	//Set pines del puerto B a HIGH
