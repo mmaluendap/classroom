@@ -15,10 +15,9 @@ Las encontrarán en la carpeta MSP430 y en los siguientes links:
 - [User's Guide](http://www.ti.com/lit/ug/slau208q/slau208q.pdf)
 - [MSP430F551x Mixed-Signal Microcontrollers](http://www.ti.com/lit/ds/symlink/msp430f5529.pdf)
 
-Para programarla pueden utilizar Code Composer Studio o Energia.nu
+Para programarla pueden utilizar Code Composer Studio
 - [Code Composer Studio (Recomendado)](http://www.ti.com/tool/CCSTUDIO)
 	- [Download page](http://processors.wiki.ti.com/index.php/Download_CCS)
-- [Energia.nu](http://energia.nu/)
 
 ### ATmega328P Xplained Mini 
 
@@ -28,8 +27,7 @@ Las encontrarán en la carpeta ATmega328P y en los siguientes links. En la carpe
 - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 - [User's Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/50002659A.pdf)
 
-Para programarla pueden utilizar Atmel Studio, Arduino IDE, avr-gcc
+Para programarla pueden utilizar Atmel Studio, avr-gcc
 - [AtmelStudio 7 (Recomendado)](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 - [avr-gcc](https://www.nongnu.org/avr-libc/)
 	- [Tutorial instalación](http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-x/)
