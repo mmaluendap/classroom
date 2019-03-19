@@ -28,6 +28,6 @@ Las encontrarán en la carpeta ATmega328P y en los siguientes links. En la carpe
 - [User's Guide](http://ww1.microchip.com/downloads/en/DeviceDoc/50002659A.pdf)
 
 Para programarla pueden utilizar Atmel Studio, avr-gcc
-- [AtmelStudio 7 (Recomendado)](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
+- [AtmelStudio 7](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
 - [avr-gcc](https://www.nongnu.org/avr-libc/)
 	- [Tutorial instalación](http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-x/)
