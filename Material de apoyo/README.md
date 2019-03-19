@@ -32,4 +32,4 @@ Para programarla pueden utilizar Atmel Studio, Arduino IDE, avr-gcc
 - [AtmelStudio 7 (Recomendado)](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 - [avr-gcc](https://www.nongnu.org/avr-libc/)
-	- [Tutorial ejemplo](http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-x/)
+	- [Tutorial instalación](http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-x/)
