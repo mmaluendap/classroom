@@ -7,10 +7,9 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ## Laboratorios
 | Laboratorio |                         Enlace                        |    Fecha    |
 |:-----------:|:-----------------------------------------------------:|:-----------:|
-|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | 11 de Marzo |
-|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | 25 de Marzo (task 1) |
-|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | 1 de Abril (task 2) |
-|      2      | Clickeame!											  | 1 de Abril (task 1) |
+|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | 11 de marzo |
+|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | Task 1: 25 de marzo - Task 2: 1 de abril|
+|      2      | [Clickeame!](https://classroom.github.com/a/kbl4kGKI) | 1 de abril|
 
 ## Foro
 
