@@ -9,7 +9,11 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |:-----------:|:-----------------------------------------------------:|:-----------:|
 |      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | 11 de marzo |
 |      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | Task 1: 25 de marzo - Task 2: 1 de abril|
-|      2      | [Clickeame!](https://classroom.github.com/a/kbl4kGKI) | 1 de abril|
+|      2      | [Clickeame!](https://classroom.github.com/a/kbl4kGKI) | 8 de abril|
+|      3      | [En progreso!](https://www.youtube.com/watch?v=qxphTeVyygo) | 15 de abril|
+|      4      | [En progreso!](https://www.youtube.com/watch?v=X1kcTdzKb_E) | 22 de abril|
+|      5      | [En progreso!](https://youtu.be/bNfjR6W2RtA?t=59) | 29 de abril|
+|      6      | [En progreso!](https://youtu.be/cgib0bCzUpg?t=48) | 6 de mayo|
 
 ## Foro
 
