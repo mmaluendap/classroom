@@ -13,7 +13,7 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |      3      | [En progreso!](https://www.youtube.com/watch?v=qxphTeVyygo) || 15 de abril|
 |      4      | [En progreso!](https://www.youtube.com/watch?v=X1kcTdzKb_E) || 22 de abril|
 |      5      | [En progreso!](https://youtu.be/bNfjR6W2RtA?t=59) || 29 de abril|
-|      6      | [En progreso!](https://youtu.be/cgib0bCzUpg?t=48) || 6 de mayo|
+|      6      | [En progreso!](https://youtu.be/8e0z3-iZ_TY?t=65) || 6 de mayo|
 
 ## Foro
 
