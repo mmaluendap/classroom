@@ -7,21 +7,15 @@
  * a terminal emulator with the appropriate baud rate
  * in order to see the test message below.
  *
- * Hint: You can not connect your terminal to this board
- * and avrdude at the same time. Disconnect your terminal
- * software when loading a new program into the flash!
+ * Hint: Disconnect your terminal software when loading 
+ * a new program into the flash!
  *
  * This code is in the public domain.
  *
  ****************************************************/
 
 
-// MCU Clock Speed - needed for delay.h
-#define F_CPU	16000000UL
-
-#include <avr/io.h>
-#include <util/delay.h>
-
+#include <msp430.h>
 
 // Have a look at both the .h and the .c file, there is code missing.
 #include "USART/USART_implement_me.h"
@@ -55,10 +49,9 @@ int main(void)
 		USART_Transmit_String("Welcome to the Second test. Please send a properly terminated string.\r\n");
 		
 		// Show the received string
-
-		// Fill here 
 		
-		USART_Receive_String( /* Fill here */ );
+		// Fill here 
+		USART_Receive_String(/* Fill here*/);
 		USART_Transmit_String("I received this line: ");
 		USART_Transmit_String(string);
 		USART_Transmit_String(".\r\n\r\n");

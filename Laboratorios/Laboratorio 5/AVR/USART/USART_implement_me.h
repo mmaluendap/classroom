@@ -43,8 +43,8 @@ char USART_Receive_char(void);
 
 // Receives a '\n' terminated string and writes it into a supplied buffer.
 // The buffer must be guaranteed to handle at least bufflen bytes.
-// Returns the number of bytes written into the buffer.
-uint8_t USART_Receive_String(char* buffer, uint8_t bufflen);
+// Returns the number of bytes written into the buffer (If you want)
+uint8_t USART_Receive_String(/* Fill here*/);
 
 
 #endif // _USART_IMPLEMENT_ME_H_
