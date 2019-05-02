@@ -13,10 +13,11 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 |      3      | [Clickeame!](https://classroom.github.com/a/yNNpDuQP) | PWM y ADC | 15 de abril|
 |      4      | [Clickeame!](https://classroom.github.com/a/Fp8Dcd4R) | UART - Introducción| 22 de abril|
 |      5      | [Clickeame!](https://classroom.github.com/a/Cw4LvB3i) | UART - Recepción| 29 de abril|
-|      6      | [Motivacion!](https://www.youtube.com/watch?v=kRpODt0rflA) | UART - Interrupts| 6 de mayo|
+|      6      | [Clickeame!](https://classroom.github.com/a/cFzY-F-I) | UART - Interrupts| 6 de mayo|
 |      7      | [Curioso!](https://www.youtube.com/watch?v=FwG74xH4uFs) | Timers | 13 de mayo|
 |      --      | [Semana Libre!](https://youtu.be/LDU_Txk06tM?t=66) | [Semana Libre!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 20 de mayo|
-|      8      | [Diversion!](https://www.youtube.com/watch?v=D-UmfqFjpl0) || 27 de mayo|
+|      8      | [Diversion!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |Misterioso| 27 de mayo|
+|      9      | [Diversion!](https://www.youtube.com/watch?v=kRpODt0rflA) |I2C| 3 de JUNIO|
 
 
 ## Foro
