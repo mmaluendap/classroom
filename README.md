@@ -7,17 +7,17 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 ## Laboratorios
 | Laboratorio |                         Enlace                        | Titulo 		|   Fecha    |
 |:-----------:|:-----------------------------------------------------:|:-----------:|:-----------:|
-|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | Hola Mundo ! | 11 de marzo |
-|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | Blink Led ! | Task 1: 25 de marzo - Task 2: 1 de abril|
+|      0      | [Clickeame!](https://classroom.github.com/a/qVTNJf_J) | Hola Mundo! | 11 de marzo |
+|      1      | [Clickeame!](https://classroom.github.com/a/TF49GyR3) | Blink Led! | Task 1: 25 de marzo - Task 2: 1 de abril|
 |      2      | [Clickeame!](https://classroom.github.com/a/kbl4kGKI) | Output e Input Básicos (GPIOs) | 8 de abril |
 |      3      | [Clickeame!](https://classroom.github.com/a/yNNpDuQP) | PWM y ADC | 15 de abril|
 |      4      | [Clickeame!](https://classroom.github.com/a/Fp8Dcd4R) | UART - Introducción| 22 de abril|
 |      5      | [Clickeame!](https://classroom.github.com/a/Cw4LvB3i) | UART - Recepción| 29 de abril|
 |      6      | [Clickeame!](https://classroom.github.com/a/cFzY-F-I) | UART - Interrupts| 6 de mayo|
-|      7      | [Curioso!](https://www.youtube.com/watch?v=FwG74xH4uFs) | Timers | 13 de mayo|
+|      7      | [Clickeame!](https://classroom.github.com/a/gnIWqug6) | Timers | 13 de mayo|
 |      --      | [Semana Libre!](https://youtu.be/LDU_Txk06tM?t=66) | [Semana Libre!](https://www.youtube.com/watch?v=ZbZSe6N_BXs)| 20 de mayo|
-|      8      | [Diversion!](https://www.youtube.com/watch?v=D-UmfqFjpl0) |Misterioso| 27 de mayo|
-|      9      | [Diversion!](https://www.youtube.com/watch?v=kRpODt0rflA) |I2C| 3 de JUNIO|
+|      8      | [Clickeame!](https://classroom.github.com/a/w-6LrXV0) |Misterioso| 27 de mayo|
+|      9      | [Clickeame!](https://classroom.github.com/a/3nzgczq5) |I2C| 3 de junio|
 
 
 ## Foro
